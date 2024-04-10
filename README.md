@@ -19,7 +19,7 @@ The data set used for this visualization is sourced from [[Kaggle](https://www.k
 
 ## Visual Presentation Example
 
-![HR_Analytics - Power BI Desktop ](https://github.com/MariaAma/DataVisualizationPowerBi_HRAnalytics/assets/79280783/e578580a-71e5-44da-8ae7-37afc8912735)
+![HR_Analytics - Power BI Desktop ](https://github.com/MariaAma/DataVisualizationPowerBi_HRAnalytics/assets/79280783/ec99af87-adef-43b9-87a9-ac674713ebe4)
 
 
 ## Feedback
