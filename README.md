@@ -21,6 +21,15 @@ The data set used for this visualization is sourced from [[Kaggle](https://www.k
 
 ![HR_Analytics - Power BI Desktop ](https://github.com/MariaAma/DataVisualizationPowerBi_HRAnalytics/assets/79280783/ec99af87-adef-43b9-87a9-ac674713ebe4)
 
+These examples showcase the power of Power BI in creating interactive data analyses for the field of technology support:
+
+For example, when the user selects the 'IT Support' category, the charts and tables dynamically update to display the relevant data.
+
+![HR_Analytics - Power BI Desktop 11_4_2024 3_02_01 πμ](https://github.com/MariaAma/DataVisualizationPowerBi_HRAnalytics/assets/79280783/5bc4c991-b6ff-455f-bd51-3d6caaa4c57e)
+
+Alse, when the user selects the 'Low Salary' category, the charts and tables dynamically update to display the relevant data.
+
+![HR_Analytics - Power BI Desktop 11_4_2024 2_59_18 πμ](https://github.com/MariaAma/DataVisualizationPowerBi_HRAnalytics/assets/79280783/c297fa0c-a551-48de-abe3-1cb8e1c97daa)
 
 ## Feedback
 
