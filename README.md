@@ -6,6 +6,11 @@ This project visualizes a Human Resources data set using Power BI. The data set 
 
 The visualization provides insights into various aspects of HR analytics. Through interactive charts and graphs, viewers can explore patterns within the data and uncover actionable insights to optimize HR strategies.
 
+The "Salary Level" is arbitrarily defined based on the following thresholds:
+- If the salary is less than $70,000, it is categorized as "Low."
+- If the salary is between $70,000 and $120,000, it is categorized as "Median."
+- If the salary is $120,000 or higher, it is categorized as "High."
+
 ## Getting Started
 
 To view the visualization:
